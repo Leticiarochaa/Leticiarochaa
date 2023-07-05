@@ -17,7 +17,7 @@
   ### Me segue nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/Leticiarochaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leticia_rochasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-rocha-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/Leticiarochaa/Leticiarochaa/blob/output/github-contribution-grid-snake.svg)
