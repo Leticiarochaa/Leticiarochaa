@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/Leticiarochaa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticiarochaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   [![card](https://github-readme-stats.vercel.app/api?username=Leticiarochaa&theme=default)](https://github.com/anuraghazra/github-readme-stats)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarochaa&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
