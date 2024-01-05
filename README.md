@@ -2,6 +2,7 @@
 
  <div>
   <a href="https://github.com/Leticiarochaa">
+   ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticiarochaa&show_icons=true&theme=radical)
    <https://github-readme-stats.vercel.app/api?username=Leticiarochaa&theme=default>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarochaa&layout=compact&langs_count=6&theme=tokyonight"/>
 
