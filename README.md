@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Letícia Rocha 😁
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leticia_rochasilva)
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/leticia-rocha-da-silva-ba4588149)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-rocha-da-silva-ba4588149)
 
 ![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticiarochaa&show_icons=true&theme=dracula)
 
